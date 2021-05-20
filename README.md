@@ -11,4 +11,4 @@ For the first generation, there are two codes, one to calculate slope for indivi
 
 For the second generation, there is one code to calculate slope for individual DNA sequences.
 
-For both generations, the results csv file contains for each AA or DNA sequence: 1-tailed p-value relative to parental oncocin, average slope (mM^-1 min^-1), average y-intercept (min^-1), slope standard deviation (mM^-1 min^-1), and y-intercept standard deviation (min^-1). Result files are labeled by generation and DNA versus amino acid sequence based analysis.
+For both generations, the results csv file contains for each AA or DNA sequence: 1-tailed p-value relative to parental oncocin, average slope (mM^-1 min^-1), average y-intercept (min^-1), slope standard deviation (mM^-1 min^-1), and y-intercept standard deviation (min^-1). Result files are labeled by generation and DNA or amino acid sequence based analysis.
